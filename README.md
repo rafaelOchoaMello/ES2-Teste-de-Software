@@ -1,5 +1,5 @@
 <h1 align="center">Engenharia de Software II - Teste de Software </h1>
-<p align="center"> Rafael Ochôa Mello - Testes desenvolvidos para a tabela de produtos </p>
+<p align="center"> Rafael Ochôa Mello - rafaelochoamello@gmail.com </p>
 
 <p align="center">
  <a href="#sobre">Projeto base</a> •
